@@ -2,6 +2,10 @@
 
 Klggr, klavyeden alınan karakterleri log dosyasına yazan bir C# programıdır.
 
+## Uyarı
+
+Bu program eğitim amaçlı olarak yazılmıştır kötüye kullanım durumunda sorumluluk kullanan kişiye aittir.
+
 ## Kullanım
 
 Program çalıştırıldığında, klavyeden herhangi bir tuşa basıldığında ilgili karakter log dosyasına yazılır. Log dosyası, programın çalıştığı dizinde "Logs" adlı bir klasörde yer alır.
